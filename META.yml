@@ -5,9 +5,9 @@ author:
 build_requires:
   Test::More: '0.98'
 configure_requires:
-  ExtUtils::MakeMaker: '6.30'
+  ExtUtils::MakeMaker: '0'
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 5.019, CPAN::Meta::Converter version 2.141170'
+generated_by: 'Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142060'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -22,4 +22,4 @@ resources:
   bugtracker: https://github.com/frioux/DBIx-Class-UnicornLogger/issues
   homepage: https://github.com/frioux/DBIx-Class-UnicornLogger
   repository: https://github.com/frioux/DBIx-Class-UnicornLogger.git
-version: '0.001003'
+version: '0.001004'
